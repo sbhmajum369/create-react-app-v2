@@ -15,7 +15,18 @@ Create a React App from a boilerplate with minimalistic packages and reduce the 
 - `npm start` 
 	- It will start a `localhost` server at port 3000.  
 
-TypeScript and JSX support are included. For more
+
+TypeScript and JSX support are included.  
+
+To start using TypeScript:
+- `npm install typescript @types/node @types/react @types/react-dom`
+- Add or modify jsx=>tsx, js=>ts 
+
+
+For more info:  
+[Add TypeScript to Create-React-App](https://create-react-app.dev/docs/adding-typescript/)  
+[TypeScript Docs](https://www.typescriptlang.org/docs/)  
+
 
 ## For production
 
@@ -36,7 +47,7 @@ Contains main configs for building and running the app. For integrating a backen
 `webpack.prod`: Production related configurations.  
 
 - - - -  
-\
+
 ***Please leave a star if you find it useful*** :star: :star: :star:  
 \
 *Suggestions and collaboration are welcome* :smiley:  
