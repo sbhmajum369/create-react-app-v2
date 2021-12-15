@@ -1,6 +1,6 @@
 {
   "name": "create-react-app-v2",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "React App without create-react-app",
   "main": "src/index.js",
   "scripts": {

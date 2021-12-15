@@ -6,7 +6,7 @@ const App = () => {
 	return (
 		<div className="App">
 			<header className="App-header">
-				<h3> Create React App "2.0" </h3>
+				<h3> Create React App 2.0 </h3>
 				<img src={logo} className="App-logo" alt="logo" />
 				<p>
 				  Edit <code>src/App.js</code> and save to reload.
