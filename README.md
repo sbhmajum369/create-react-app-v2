@@ -22,10 +22,13 @@ To start using TypeScript:
 - `npm install typescript @types/node @types/react @types/react-dom`
 - Add or modify jsx=>tsx, js=>ts 
 
+\
+**`react-app-env.d.ts`** is for media type definitions.  
 
-For more info:  
-[Add TypeScript to Create-React-App](https://create-react-app.dev/docs/adding-typescript/)  
-[TypeScript Docs](https://www.typescriptlang.org/docs/)  
+\
+For more info:
+- [Add TypeScript to Create-React-App](https://create-react-app.dev/docs/adding-typescript/)  
+- [TypeScript Docs](https://www.typescriptlang.org/docs/)  
 
 
 ## For production
